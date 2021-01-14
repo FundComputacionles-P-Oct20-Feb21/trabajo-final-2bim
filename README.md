@@ -53,11 +53,11 @@ Los datos asignados al arreglo son:
 mensajeFinal <-- {"Campaña con poca afluencia", "Campaña moderada siga adelante", "Excelente campaña"}
 ```
 
-a. Si el número de cuentas creadas está en el rango de 1 a 5 el mensaje será: **"Campaña con poca afluencia" **
+a. Si el número de cuentas creadas está en el rango de 1 a 5 el mensaje será: **Campaña con poca afluencia**
 
-b. Si el número de cuentas creadas está en el rango de 6 a 15 el mensaje será: **"Campaña moderada siga adelante" **
+b. Si el número de cuentas creadas está en el rango de 6 a 15 el mensaje será: **Campaña moderada siga adelante**
 
-c. Si el número de cuentas creadas está en el rango de 16 en adelante, el mensaje será: **"Excelente campaña" **
+c. Si el número de cuentas creadas está en el rango de 16 en adelante, el mensaje será: **Excelente campaña**
 
 ### Presentación del trabajo final
 - En la carpeta miniespecificacion: un solo archivo llamado solucion.txt con la miniespecificación de la solución.

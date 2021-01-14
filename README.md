@@ -7,15 +7,15 @@
 
 Generar un solución en miniespecificación y diagramas de flujo. 
 
-Que permita ingresar nuevas cuentas de diversas plataformas. Las plataforas son:
+Que permita ingresar nuevas cuentas de diversas plataformas. Las plataformas son:
 
-- Facebook (se necesita los siguientes datos: nombre de usuario, edad, ciudad, pais, correo electrónico)
-- Twitter (se necesita los siguientes datos: nombre de usuario, nombres, apellidos, edad, ciudad, pais, idioma, correo electrónico)
-- Whatsapp (se necesita los siguientes datos: nombre de usuario, número de teléfono, edad, ciudad, pais)
-- Telegram (se necesita los siguientes datos: nombre de usuario, número de teléfono, ciudad, pais, área de interés)
-- Signal (se necesita los siguientes datos: nombre de usuario, número de teléfono, ciudad, pais, hobby principal)
-- Instagram (se necesita los siguientes datos: nombre de usuario, ciudad, edad, correo electrónico)
-- Flickr (se necesita los siguientes datos: nombre de usuario, correo electrónico)
+- **Facebook** (se necesita los siguientes datos: nombre de usuario, edad, ciudad, pais, correo electrónico)
+- **Twitter** (se necesita los siguientes datos: nombre de usuario, nombres, apellidos, edad, ciudad, pais, idioma, correo electrónico)
+- **Whatsapp** (se necesita los siguientes datos: nombre de usuario, número de teléfono, edad, ciudad, pais)
+- **Telegram** (se necesita los siguientes datos: nombre de usuario, número de teléfono, ciudad, pais, área de interés)
+- **Signal** (se necesita los siguientes datos: nombre de usuario, número de teléfono, ciudad, pais, hobby principal)
+- **Instagram** (se necesita los siguientes datos: nombre de usuario, ciudad, edad, correo electrónico)
+- **Flickr** (se necesita los siguientes datos: nombre de usuario, correo electrónico)
 
 La aplicación debe tener los siguientes procedimientos:
 
